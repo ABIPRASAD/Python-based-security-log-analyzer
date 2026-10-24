@@ -22,11 +22,17 @@ A Python-based cybersecurity project that analyzes authentication logs, identifi
 ## Project Structure
 
 python-security-log-analyzer/
+
 ├── log_analyzer.py
+
 ├── security.log
+
 ├── security_report.csv
+
 ├── security_report.json
+
 ├── README.md
+
 └── .gitignore
 
 
