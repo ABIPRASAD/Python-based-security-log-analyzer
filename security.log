@@ -1,0 +1,6 @@
+
+2026-10-20 09:00:12 INFO Login successful: alice
+2026-10-20 09:01:05 FAILED Login failed: admin
+2026-10-20 09:02:14 INFO Login successful: bob
+2026-10-20 09:03:40 FAILED Login failed: root
+2026-10-20 09:04:21 FAILED Login failed: admin

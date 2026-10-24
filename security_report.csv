@@ -1,0 +1,4 @@
+event,username,log_entry
+Failed login,admin,2026-10-20 09:01:05 FAILED Login failed: admin
+Failed login,root,2026-10-20 09:03:40 FAILED Login failed: root
+Failed login,admin,2026-10-20 09:04:21 FAILED Login failed: admin

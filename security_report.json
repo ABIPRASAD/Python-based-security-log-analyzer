@@ -1,0 +1,17 @@
+[
+    {
+        "event": "Failed login",
+        "username": "admin",
+        "log_entry": "2026-10-20 09:01:05 FAILED Login failed: admin"
+    },
+    {
+        "event": "Failed login",
+        "username": "root",
+        "log_entry": "2026-10-20 09:03:40 FAILED Login failed: root"
+    },
+    {
+        "event": "Failed login",
+        "username": "admin",
+        "log_entry": "2026-10-20 09:04:21 FAILED Login failed: admin"
+    }
+]
